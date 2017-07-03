@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+# Ignore downloaded data
+*.gz
+*_log
+*.txt
