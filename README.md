@@ -1,6 +1,12 @@
 # Hadoop MapReduce Python Example
 Map Reduce example for Hadoop in Python based on [Udacity: Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 
+# Download data
+
+Use following script to download data:
+
+`./download_data.sh`
+
 # Input data
 
 First ten lines of the input file using command `head data/purchases.txt`. Each line have 6 values separated with `\t`:
