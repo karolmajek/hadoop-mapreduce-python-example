@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # Your task is to make sure that this mapper code does not fail on corrupt data lines,
 # but instead just ignores them and continues working
 import sys
